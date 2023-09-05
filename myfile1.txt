@@ -1,1 +1,3 @@
-this is a test file for git project 
+this is a test file for git project
+
+Adding new line aftet git commit to see how it reacts on issuing add again 
